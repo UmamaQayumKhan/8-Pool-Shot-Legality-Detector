@@ -4,7 +4,7 @@ A computer vision pipeline that watches a video of an 8-ball pool shot and
 determines whether the cue ball made **legal contact** with another ball,
 or whether the shot was a **foul** (no contact at all).
 
-## vedio demo
+## video demo
 
 
 https://github.com/user-attachments/assets/b1738897-f850-41a4-b8d0-01fa01c89aa9
